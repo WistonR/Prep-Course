@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "Hola <3, Buenos días a todos!";
+const nuevaString = "esto es un texto";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 112244;
+const nuevoNum = 31416;
 
 // Crea una variable booleana:
 const nuevoBool = null;
