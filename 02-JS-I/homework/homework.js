@@ -4,7 +4,7 @@
 const nuevaString = "esto es un texto de la branch de main";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 314162;
+const nuevoNum = 3141623;
 
 // Crea una variable booleana:
 const nuevoBool = null;
